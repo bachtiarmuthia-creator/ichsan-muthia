@@ -1,0 +1,1 @@
+Ganti GANTI-DOMAIN dengan domain Pages setelah deploy.
